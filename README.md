@@ -28,7 +28,7 @@
 
 ## Let's Connect
 
-- Email: your-abhinavkumar18jun@gmail.com
+- Email: abhinavkumar18jun@gmail.com
 - LinkedIn: https://linkedin.com/in/abhi0605 
 
 
