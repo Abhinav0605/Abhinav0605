@@ -1,12 +1,12 @@
 # Hi, I'm Abhinav
 
-## 2nd-year BTech student | Tech enthusiast | Problem Solver
+## 3rd-year BTech student | Tech enthusiast | Problem Solver
 
 ---
 
 ## About Me
 
-- 2nd-year BTech student at Lloyd Institute of Engineering and Technology  
+- 3rd-year BTech student at Lloyd Institute of Engineering and Technology  
 - Passionate about Data Structures & Algorithms (DSA) and solving complex problems  
 - Exploring Web Development – building dynamic, responsive applications  
 - Eager to learn, grow, and contribute to real-world tech projects  
